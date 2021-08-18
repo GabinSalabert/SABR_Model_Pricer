@@ -1,0 +1,11 @@
+- DL Flask
+- Look at each parameters, we need Strike and spot Price, volatility, Risk free rate, maturity.
+- Once Scholes is working, try to implement it into SAB in order to price an option.
+- Have we to display the smile graph ?
+- The hell are these data in the xls, do we really need swap rates ?
+- Do we have to choose a specific underlying ?
+- Can we use a soft to use python from Excel ?
+- Which currency is mandatory ?
+- First of all, take a random example and try it.
+- Maybe catch the json after its creation to store data into variables ?
+- Add RFR according to SABR, we don't have it in Scholes.
